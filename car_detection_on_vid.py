@@ -34,7 +34,7 @@ while cap.isOpened():
             break
     
     except Exception:
-            break
+        break
 
             
 cap.release()                                               # Release the captured frame
