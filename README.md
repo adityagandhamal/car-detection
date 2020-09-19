@@ -1,7 +1,7 @@
 # Car-detection
-## Car detection using OpenCV in Python
+## Car detection and tracking using OpenCV in Python
 
-### This project detects cars in an image and in a video frame using a pre-trained Haar Cascade Classifier.    
+### This project detects and tracks cars in an image and in a video frame using a pre-trained Haar Cascade Classifier.    
 #### Here are some snippets
 
 #### In a video
