@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("test_img.jpg")
+img = cv2.imread("./Data/test_img.jpg")
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 model = cv2.CascadeClassifier("haarcascade_car.xml")
