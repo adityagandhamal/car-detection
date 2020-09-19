@@ -1,7 +1,7 @@
 # Car-detection
 ## Car detection using OpenCV in Python
 
-### This project detects faces in an image and in a video frame using a pre-trained Haar Cascade Classifier.    
+### This project detects cars in an image and in a video frame using a pre-trained Haar Cascade Classifier.    
 #### Here are some snippets
 
 #### In a video
@@ -23,4 +23,4 @@
  
  4. Go to the directory of this repo cloned onto your local machine and open cmd.
  
- 5. Run the python files of your choice by typing the file name in the cmd as `face_detection.py` or `face_detection_on_vid.py`
+ 5. Run the python files of your choice by typing the file name in the cmd as `car_detector.py` or `car_detection_on_vid.py`
